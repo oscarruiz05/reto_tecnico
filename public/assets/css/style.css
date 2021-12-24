@@ -1,0 +1,81 @@
+/* colores */
+.color-dark{
+    color: rgb(19, 17, 17);
+}
+.fondo{
+    background-image: url('../img/fondo1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+a:hover{
+    text-decoration: none;
+    color: #000;
+}
+.seccion{
+    padding: 10vh 0 0 0;
+}
+h2{
+    font-size: 5rem;
+    color: #fff;
+}
+h3{
+    color: #fff;
+}
+/* index */
+.px-5{
+    padding: 0 12rem !important;
+}
+.tabla-posiciones{
+    margin-top: 3rem;
+    padding: 2rem 8rem;
+    background-color: rgba(0, 0, 0, 0.596);
+    border-radius: 5px;
+}
+.tabla-posiciones .table{
+    color: #fff;
+}
+.form-ingresar{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.form-inline{
+    justify-content: center;
+}
+
+
+/* vista play */
+.seccion2{
+    padding: 5rem 0 0 0;
+}
+.jugador{
+    color: #fff;
+}
+.preguntas-respuestas{
+    padding-top: 3rem;
+}
+.pregunta{
+    margin-bottom: 1rem;
+}
+.resp_color{
+    color: #fff;
+}
+.img-salir{
+    width: 3rem;
+}
+.cuestionario{
+    background-color: rgba(0, 0, 0, 0.596);
+    border-radius: 5px;
+    padding: 2rem 0;
+}
+.preguntas{
+    padding: 2rem 8rem;
+}
+.card:hover{
+    box-shadow: 5px 5px rgba(255, 255, 255, 0.226);
+    font-weight: bold;
+}
